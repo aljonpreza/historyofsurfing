@@ -2,6 +2,7 @@ body {
   background-image: url("http://a3.espncdn.com/photo/2014/0503/as_surf_rothman_mckenna_2048.jpg");
   color: orange;
   font-family: 'Arial', sans-serif;
+  padding: 5px;
 }
 
 h1 {
@@ -17,6 +18,9 @@ h1 {
   width: 200px;
   height: 200px;
   padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
 }
 
 .dave {
@@ -28,6 +32,9 @@ h1 {
   width: 200px;
   height: 200px;
   padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
 }
 
 .andy {
@@ -39,6 +46,9 @@ h1 {
   width: 200px;
   height: 200px;
   padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
 }
 
 .laird {
@@ -50,4 +60,7 @@ h1 {
   width: 200px;
   height: 200px;
   padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
 }
