@@ -64,3 +64,8 @@ h1 {
   vertical-align: middle;
   line-height: 200px;
 }
+
+.profiles {
+  width: 900px;
+  margin: auto;
+}
