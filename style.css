@@ -1,0 +1,53 @@
+body {
+  background-image: url("http://a3.espncdn.com/photo/2014/0503/as_surf_rothman_mckenna_2048.jpg");
+  color: orange;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  font-family: 'Helvetica', sans-serif;
+}
+
+
+.stacy {
+  margin: 5px;
+  float: left;
+  color: white;
+  background-image: url("http://www.outsideonline.com/sites/default/files/migrated-images/P275204-2-1_peralta_2.jpg");
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+
+.dave {
+  margin: 5px;
+  float: left;
+  color: white;
+  background-image: url("http://www.seabreeze.com.au/img/Content/5742091/5744674.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+
+.andy {
+  margin: 5px;
+  float: left;
+  color: white;
+  background-image: url("http://www.pohnpeisurfclub.com/captains_log/wp-content/uploads/2010/11/Andy-Irons.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
+
+.laird {
+  margin: 5px;
+  float: left;
+  color: white;
+  background-image: url("http://stwww.surfermag.com/files/2010/11/wpid-laird-hamilton-teahupoo-677.jpg");
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  padding: 5px;
+}
